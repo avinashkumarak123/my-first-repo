@@ -1,12 +1,9 @@
 #include <iostream>
 using namespace std;
 
-//function to add two numbers
-
-int addNumber(int a, int b) {
-
-	return a+b;
-
+// Function to add two numbers
+int addNumbers(int a, int b) {
+    return a + b;
 }
 
 int main() {
