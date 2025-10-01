@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     cout << "===== Addition of Two Numbers =====" << endl;
     int num1, num2, sum;
-    std::cout<<"for subnumber branch"<<std::endl;
+    std::cout<<"for subnumber1 branch"<<std::endl;
     // Get input from user
     cout << "Enter first number: ";
     cin >> num1;
